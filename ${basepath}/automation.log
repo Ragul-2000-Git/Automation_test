@@ -1,0 +1,5 @@
+2024-10-14 23:30:44 INFO  TC_001 - log started
+23:41:01.595 [main] INFO  testCase.TC_001 - sadjfasdhd
+23:41:32.737 [main] INFO  testCase.TC_001 - sadjfasdhd
+23:43:13.018 [main] INFO  testCase.TC_001 - sadjfasdhd
+23:43:13.596 [main] DEBUG testCase.TC_001 - debug logs
